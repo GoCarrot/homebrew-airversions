@@ -26,6 +26,9 @@ Adobe Air SDK Versions available
 | Version    |
 | ---------: |
 |       28.0 |
+|       29.0 |
+|       30.0 |
+|       32.0 |
 
 
 License
